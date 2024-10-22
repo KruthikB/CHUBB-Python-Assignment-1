@@ -1,0 +1,17 @@
+Aradhya,91.0
+Arun,80.0
+abhimanyu,96.0
+Vishak,72.0
+Rahul,68.0
+Ravi,73.0
+Kathik,98.0
+Hari,77.0
+Magesh,76.0
+Rohan,nan
+Abheyy,82.0
+kamlesh,64.0
+Rajesh,89.0
+Ruksana,80.0
+Ruhana,54.0
+Akshara,96.0
+Kusum,nan
